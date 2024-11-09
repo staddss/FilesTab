@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "ファイルタブ",
+    "name": "FilesTab",
     "description": "ファイルアプリをタブで開く",
     "version": "1.0",
     "background": {
